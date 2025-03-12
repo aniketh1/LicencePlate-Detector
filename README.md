@@ -50,3 +50,8 @@ npm start
 - YOLO (You Only Look Once)
 - SORT (Simple Online and Realtime Tracking)
 - OpenCV 
+
+## Contributors
+
+- [Ninad Laxmish Dixit](https://www.linkedin.com/in/ninad-laxmish-dixit-72565b282/) - Project Developer
+- [Aniket Korwar](https://www.linkedin.com/in/aniket-korwar-064550203/) - Project Developer 
