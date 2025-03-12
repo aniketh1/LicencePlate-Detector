@@ -1,0 +1,4 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+LPD/models/2103099-uhd_3840_2160_30fps.mp4 filter=lfs diff=lfs merge=lfs -text
+LPD/temp/WIN_20241103_16_09_39_Pro.mp4 filter=lfs diff=lfs merge=lfs -text
